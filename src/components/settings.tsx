@@ -38,7 +38,7 @@ export function Settings() {
               ，然后点击右键 》检查。打开开发者工具，在应用程序 》Cookie 里面找到名为 _U 的 Cookie，双击复制值，粘贴到此处保存。
               <div className="h-2" />
               图文示例：
-              <ExternalLink href="https://github.com/weaigc/bingo#%E5%A6%82%E4%BD%95%E8%8E%B7%E5%8F%96-cookie">如何获取 Cookie</ExternalLink>
+              <ExternalLink href="https://www.yuque.com/cybor/finch/hxa7kwhg2s21qwmb?singleDoc#">如何获取 Cookie</ExternalLink>
             </DialogDescription>
           </DialogHeader>
           <Input
